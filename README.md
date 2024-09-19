@@ -120,7 +120,7 @@
    <img src="1.JPG.JPG" width="400" height="200"/>
 
      <video width="400" height="200" controls>
-    <source src="1.mp4" type="video/mp4">
+    <source src=".mp4.MP4" type="video/mp4">
        </video>
     
 	<a href="Base Access China.html"> Registros  </a> <br> 
