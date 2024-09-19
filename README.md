@@ -117,7 +117,7 @@
   
   <audio controls> <source src="1.mp3" type="audio/mp3"> Tu navegador no soporta audio HTML5. </audio>
  
-   <img src="8.JPG" width="400" height="200"/>
+   <img src="1.JPG" width="400" height="200"/>
 
      <video width="400" height="200" controls>
     <source src=".mp4" type="video/mp4">
